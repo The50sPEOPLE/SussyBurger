@@ -1,0 +1,16 @@
+C:\Users\Sakib\Desktop\BURGER\bin\Debug\net5.0\BURGER.exe
+C:\Users\Sakib\Desktop\BURGER\bin\Debug\net5.0\BURGER.deps.json
+C:\Users\Sakib\Desktop\BURGER\bin\Debug\net5.0\BURGER.runtimeconfig.json
+C:\Users\Sakib\Desktop\BURGER\bin\Debug\net5.0\BURGER.runtimeconfig.dev.json
+C:\Users\Sakib\Desktop\BURGER\bin\Debug\net5.0\BURGER.dll
+C:\Users\Sakib\Desktop\BURGER\bin\Debug\net5.0\ref\BURGER.dll
+C:\Users\Sakib\Desktop\BURGER\bin\Debug\net5.0\BURGER.pdb
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.csproj.AssemblyReference.cache
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.AssemblyInfoInputs.cache
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.AssemblyInfo.cs
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.csproj.CoreCompileInputs.cache
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.dll
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\ref\BURGER.dll
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.pdb
+C:\Users\Sakib\Desktop\BURGER\obj\Debug\net5.0\BURGER.genruntimeconfig.cache
